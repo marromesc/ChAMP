@@ -1,6 +1,6 @@
 # ChAMP Package for DNA methylation analysis
 
-This repo includes a few extra functions to visualize ChAMP input. Click [here]([https://www.bioconductor.org/packages/release/bioc/html/ChAMP.html](https://github.com/YuanTian1991/ChAMP) to go to the original ChAMP package.
+This repo includes a few extra functions to visualize ChAMP input. Click [here](https://github.com/YuanTian1991/ChAMP) to go to the original ChAMP package.
 
 > Note that this is NOT a proper release version ChAMP and under intensive modification and upgrade, the formally released one is on [Bioconductor](https://www.bioconductor.org/packages/release/bioc/html/ChAMP.html).
 
