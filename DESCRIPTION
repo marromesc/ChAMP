@@ -21,7 +21,7 @@ Imports:
         limma, DNAcopy, preprocessCore,impute, marray, wateRmelon,
         plyr,goseq,missMethyl,kpmt,ggplot2,
         GenomicRanges,qvalue,isva,doParallel,bumphunter,quadprog,shiny,shinythemes,plotly
-        (>= 4.5.6),RColorBrewer,dendextend, matrixStats,combinat
+        (>= 4.5.6),RColorBrewer,dendextend, matrixStats,combinat,ComplexHeatmap,QDNAseq
 biocViews: Microarray, MethylationArray, Normalization, TwoChannel,
         CopyNumber, DNAMethylation
 Suggests: knitr,rmarkdown
@@ -35,4 +35,4 @@ Maintainer: Yuan Tian  <champ450k@gmail.com>
 NeedsCompilation: no
 LazyData: true
 Packaged: 2018-03-22 04:29:01 UTC; tiany
-
+RoxygenNote: 7.3.1

@@ -34,6 +34,8 @@ import(Hmisc)
 import(globaltest)
 import(kpmt,"kpmt")
 import(ggplot2)
+import(ComplexHeatmap)
+import(QDNAseq)
 
 importFrom("utils", "read.csv")
 importFrom(RPMM, "blc")
@@ -74,5 +76,7 @@ export(
     DMR.GUI,
     QC.GUI,
     CpG.GUI,
-    Block.GUI
+    Block.GUI,
+	methPlot,
+	plotDMRs
 	) 
